@@ -331,15 +331,54 @@ function Index() {
                      </div>
                      <div className="col-md-4 col-sm-6">
                         <a id="demo01" href="#animatedModal" className="portfolio_item">
-                           <img src="img/portfolio/019.jpg" alt="Kent College" className="img-responsive" />
+                           <img src="img/portfolio/021.jpg" alt="WeDesign" className="img-responsive" />
                            <div className="portfolio_item_hover">
                               <div className="portfolio-border clearfix">
-                                 <div className="item_info"> <span>Kent College</span></div>
+                                 <div className="item_info"> <span>WeDesign</span></div>
                               </div>
                            </div>
                         </a>
                      </div>
-                     
+                     <div className="col-md-4 col-sm-6">
+                        <a id="demo01" href="#animatedModal" className="portfolio_item">
+                           <img src="img/portfolio/022.jpg" alt="Hr360" className="img-responsive" />
+                           <div className="portfolio_item_hover">
+                              <div className="portfolio-border clearfix">
+                                 <div className="item_info"> <span>Hr360</span></div>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                     <div className="col-md-4 col-sm-6">
+                        <a id="demo01" href="#animatedModal" className="portfolio_item">
+                           <img src="img/portfolio/023.jpg" alt="SaiGonBus" className="img-responsive" />
+                           <div className="portfolio_item_hover">
+                              <div className="portfolio-border clearfix">
+                                 <div className="item_info"> <span>SaiGonBus</span></div>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                     <div className="col-md-4 col-sm-6">
+                        <a id="demo01" href="#animatedModal" className="portfolio_item">
+                           <img src="img/portfolio/024.jpg" alt="Vietopia" className="img-responsive" />
+                           <div className="portfolio_item_hover">
+                              <div className="portfolio-border clearfix">
+                                 <div className="item_info"> <span>Vietopia</span></div>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                     <div className="col-md-4 col-sm-6">
+                        <a id="demo01" href="#animatedModal" className="portfolio_item">
+                           <img src="img/portfolio/025.jpg" alt="VCG" className="img-responsive" />
+                           <div className="portfolio_item_hover">
+                              <div className="portfolio-border clearfix">
+                                 <div className="item_info"> <span>VCG</span></div>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
                   </div>
                </div>
             </div>
