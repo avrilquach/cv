@@ -23,7 +23,7 @@ function Index() {
          <div className="disply-table">
             <div className="table-cell" data-aos="fade-up" data-aos-delay="0">
                <h4>Quách Hà Phương Anh</h4>
-               <h1 style={{ color: 'white'}}>Senior Front End Developer</h1> 
+               <h1 style={{ color: 'white'}}>Senior Front End Developer</h1>
             </div>
          </div>
       </div>
@@ -36,7 +36,7 @@ function Index() {
             <div className="h-50"></div>
             <p>Brithday: 16/08/1989</p>
             <p>Address: 79/32/10 Phạm Viết Chánh F19 Quận Bình Thạnh</p>
-            <p>Phone: 0909581321</p>
+            <p>Phone: 090XXXXXXX</p>
             <p>Email: family.happy89@gmail.com</p>
          </div>
          <div className="col-md-6 about-img-div">
@@ -388,6 +388,5 @@ function Index() {
 </div>
     );
   }
-  
+
   export default Index;
-  
